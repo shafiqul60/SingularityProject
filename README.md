@@ -19,5 +19,5 @@ For User login
 username: user 
 pass: 123456
 
-you can create own user account having signup
+to view user cerdential go to userlist or you can create own user account having signup
 
