@@ -1,0 +1,12 @@
+G:\DotNet Projects\SingularityProject\DomainModels\bin\Debug\DomainModels.dll.config
+G:\DotNet Projects\SingularityProject\DomainModels\bin\Debug\DomainModels.dll
+G:\DotNet Projects\SingularityProject\DomainModels\bin\Debug\DomainModels.pdb
+G:\DotNet Projects\SingularityProject\DomainModels\bin\Debug\EntityFramework.dll
+G:\DotNet Projects\SingularityProject\DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+G:\DotNet Projects\SingularityProject\DomainModels\bin\Debug\EntityFramework.xml
+G:\DotNet Projects\SingularityProject\DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+G:\DotNet Projects\SingularityProject\DomainModels\obj\Debug\DomainModels.csprojAssemblyReference.cache
+G:\DotNet Projects\SingularityProject\DomainModels\obj\Debug\DomainModels.csproj.CoreCompileInputs.cache
+G:\DotNet Projects\SingularityProject\DomainModels\obj\Debug\DomainModels.csproj.CopyComplete
+G:\DotNet Projects\SingularityProject\DomainModels\obj\Debug\DomainModels.dll
+G:\DotNet Projects\SingularityProject\DomainModels\obj\Debug\DomainModels.pdb
